@@ -1,6 +1,6 @@
 # DeeplearningBuilding
-
-✔ 동국탐방에 적용될 딥러닝 모델 (.tflite) 생성 및 성능 향상 진행
+<br>
+✔ 동국탐방에 적용될 딥러닝 모델 (.tflite) 생성 및 성능 향상 진행<br>
 
 
 
