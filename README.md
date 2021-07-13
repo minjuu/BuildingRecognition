@@ -25,6 +25,7 @@
 ------
 
 - 양질의 많은 데이터 셋 수집
+- 
   Training - 136536 images 
   Testing - 11157 images
   ![image](https://user-images.githubusercontent.com/57933061/125451044-04712e0d-f62e-41db-80ae-ded27b01e7e4.png)
@@ -33,6 +34,8 @@
 - Fine tuning 수행
 
 🔴 정확도(Validation Accuracy) 91% 에서 98%로 향상<br>
+![image](https://user-images.githubusercontent.com/57933061/125451642-81a0ccc6-f3ed-44ec-96de-2f1493ee15b8.png)
+
 
 
 
