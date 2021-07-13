@@ -60,7 +60,7 @@
 
 ![image](https://user-images.githubusercontent.com/57933061/125457802-74fd9d11-0c9d-483e-b9df-a6e5bc70b4ac.png)
 
-![image](https://user-images.githubusercontent.com/57933061/125457831-ac5e0a49-b375-4e7d-941d-9c7729df14d7.png)
+![image](https://user-images.githubusercontent.com/57933061/125457879-535ed914-7b82-4f21-889e-abb9d2212916.png)
 
 ### 😺 GitHub Repository
 
