@@ -45,9 +45,7 @@
 - **Fine tuning** 수행
   
    
-🔴 정확도(Validation Accuracy) <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125451642-81a0ccc6-f3ed-44ec-96de-2f1493ee15b8.png" width="400" float = "center">
-  </p>로 향상<br>
+🔴 정확도(Validation Accuracy) <img src="https://user-images.githubusercontent.com/57933061/125451642-81a0ccc6-f3ed-44ec-96de-2f1493ee15b8.png" width="300">로 향상<br>
 
   
 
