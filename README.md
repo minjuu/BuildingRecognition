@@ -37,13 +37,14 @@
 - Fine tuning 수행
 
 - Confusion Matrix 기반 정확도 개선
-  ![image](https://user-images.githubusercontent.com/57933061/125451792-e3b4aeea-1603-42f3-9b71-57c39384a1b1.png)
-
+<p style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/57933061/125451792-e3b4aeea-1603-42f3-9b71-57c39384a1b1.png" width="300" float = "center">
+  </p>
 
 
 🔴 정확도(Validation Accuracy) 91% 에서 98%로 향상<br>
 <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125451642-81a0ccc6-f3ed-44ec-96de-2f1493ee15b8.png" width="400" float = "center">
+    <img src="https://user-images.githubusercontent.com/57933061/125451642-81a0ccc6-f3ed-44ec-96de-2f1493ee15b8.png" width="300" float = "center">
   </p>
 
 
