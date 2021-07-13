@@ -26,7 +26,7 @@
 ------
 
 - 양질의 많은 **데이터 셋** 수집
-- **Training** - 136536 images 
+- **Training** - 136536 images <br>
   **Testing** - 11157 images
   
     <p style="text-align: center;">
