@@ -18,7 +18,7 @@
 
 ------
 
-- InceptionV3<br>
+- ![image](https://user-images.githubusercontent.com/57933061/125451683-566b34fa-3c18-4a27-ba35-f21f7c472a5d.png)<br>
 
 ### 🥇 성능향샹
 
@@ -32,6 +32,11 @@
 
 - Shearing, Horizontal flip, Zoom, Random Erasing 어그멘테이션 수행
 - Fine tuning 수행
+
+- Confusion Matrix 기반 정확도 개선
+  ![image](https://user-images.githubusercontent.com/57933061/125451792-e3b4aeea-1603-42f3-9b71-57c39384a1b1.png)
+
+
 
 🔴 정확도(Validation Accuracy) 91% 에서 98%로 향상<br>
 ![image](https://user-images.githubusercontent.com/57933061/125451642-81a0ccc6-f3ed-44ec-96de-2f1493ee15b8.png)
