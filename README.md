@@ -8,7 +8,7 @@
 
 ------
 
-2021.03.02 ~ 2021.06.16
+2021.03.02 ~ 2021.06.16<br>
 
 
 
@@ -17,7 +17,7 @@
 
 ------
 
-- InceptionV3
+- InceptionV3<br>
 
 ### 🥇 성능향샹
 
@@ -31,7 +31,7 @@
 - Shearing, Horizontal flip, Zoom, Random Erasing 어그멘테이션 수행
 - Fine tuning 수행
 
-🔴 정확도(Validation Accuracy) 91% 에서 98%로 향상
+🔴 정확도(Validation Accuracy) 91% 에서 98%로 향상<br>
 
 
 
