@@ -38,7 +38,7 @@
 
 - Confusion Matrix 기반 정확도 개선
 <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125451792-e3b4aeea-1603-42f3-9b71-57c39384a1b1.png" width="450" float = "center">
+    <img src="https://user-images.githubusercontent.com/57933061/125451792-e3b4aeea-1603-42f3-9b71-57c39384a1b1.png" width="550" float = "center">
   </p>
 
 <p style="text-align: center;">
