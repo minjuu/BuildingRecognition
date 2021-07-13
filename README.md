@@ -18,7 +18,8 @@
 
 ------
 
-- ![image](https://user-images.githubusercontent.com/57933061/125451683-566b34fa-3c18-4a27-ba35-f21f7c472a5d.png)<br>
+- InceptionV3
+
 
 ### 🥇 성능향샹
 
