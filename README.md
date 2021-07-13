@@ -30,7 +30,7 @@
   Training - 136536 images 
   Testing - 11157 images
     <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125451044-04712e0d-f62e-41db-80ae-ded27b01e7e4.png" width="300" float = "center">
+    <img src="https://user-images.githubusercontent.com/57933061/125451044-04712e0d-f62e-41db-80ae-ded27b01e7e4.png" width="400" float = "center">
   </p>
 
 - Shearing, Horizontal flip, Zoom, Random Erasing 어그멘테이션 수행
@@ -38,7 +38,7 @@
 
 - Confusion Matrix 기반 정확도 개선
 <p style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/57933061/125451792-e3b4aeea-1603-42f3-9b71-57c39384a1b1.png" width="400" float = "center">
+    <img src="https://user-images.githubusercontent.com/57933061/125451792-e3b4aeea-1603-42f3-9b71-57c39384a1b1.png" width="450" float = "center">
   </p>
 
 <p style="text-align: center;">
