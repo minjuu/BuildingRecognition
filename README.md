@@ -50,8 +50,12 @@
   </p><br>
 
   
+### 🖍 추가구현
 
+------
 
+- 건물 Segmentation 기술 개발 결과 이미지 (상록원)
+![image](https://user-images.githubusercontent.com/57933061/125457678-b6aa9a38-af62-47b6-a011-4720af70093d.png)
 
 
 ### 😺 GitHub Repository
