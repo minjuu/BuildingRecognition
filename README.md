@@ -33,7 +33,7 @@
     <img src="https://user-images.githubusercontent.com/57933061/125451044-04712e0d-f62e-41db-80ae-ded27b01e7e4.png" width="400" float = "center">
   </p>
 
-- Shearing, Horizontal flip, Zoom, Random Erasing **Augmentatioh** 수행
+- Shearing, Horizontal flip, Zoom, Random Erasing **Augmentation** 수행
 
 - **Confusion Matrix** 기반 정확도 개선
   <p style="text-align: center;">
