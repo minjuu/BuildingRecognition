@@ -54,9 +54,13 @@
 
 ------
 
-- 건물 Segmentation 기술 개발 결과 이미지 (상록원)
+- 건물 Segmentation 기술 개발 결과 이미지
+
 ![image](https://user-images.githubusercontent.com/57933061/125457678-b6aa9a38-af62-47b6-a011-4720af70093d.png)
 
+![image](https://user-images.githubusercontent.com/57933061/125457802-74fd9d11-0c9d-483e-b9df-a6e5bc70b4ac.png)
+
+![image](https://user-images.githubusercontent.com/57933061/125457831-ac5e0a49-b375-4e7d-941d-9c7729df14d7.png)
 
 ### 😺 GitHub Repository
 
