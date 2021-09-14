@@ -55,6 +55,7 @@
 ------
 
 - 건물 Segmentation 기술 개발 결과 (상록원, 정각원, 명진관 등)
+- Mask R-CNN 사용
 
 ![image](https://user-images.githubusercontent.com/57933061/125457678-b6aa9a38-af62-47b6-a011-4720af70093d.png)
 
